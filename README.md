@@ -1,1 +1,2 @@
 # Bank-Accounts
+I developed a straightforward banking system for managing accounts. The code comprises two classes, namely BasicAccount and PremiumAccount, which represent bank accounts with different features. BasicAccount provides essential functionalities such as depositing, withdrawing, and retrieving account information. On the other hand, PremiumAccount offers additional capabilities, including the ability to overdraft. The account holder can set a specific overdraft limit within this account type.
